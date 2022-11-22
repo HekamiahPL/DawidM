@@ -14,5 +14,5 @@ I am a hardworking and well-organized person. My goal is to constantly improve m
 - C++ basic </br> </br> </br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://pl.linkedin.com/in/dawid-mielcarek)
-[![Profile views](https://gpvc.arturio.dev/[https://github.com/HekamiahPL])]
+![Profile views](https://gpvc.arturio.dev/[https://github.com/HekamiahPL]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HekamiahPL)](https://github.com/anuraghazra/github-readme-stats)
